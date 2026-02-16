@@ -19,7 +19,7 @@ public class Monitor {
 
     @Override
     public String toString() {
-        return "Monitor{" +
+        return "Monitor = {" +
                 "idMonitor=" + idMonitor +
                 ", marca='" + marca + '\'' +
                 ", tamanio=" + tamanio +
